@@ -41,14 +41,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-29aeab0bdb914c3987cae435398c3b5a">
+      id="id-97c017519f9743a9afa9a81651e04c79">
     <bounds
-        x="923"
-        y="261"
+        x="144"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Product"
-        href="Product_id-bdaea5eaa5484217a932002fb7b7450d.xml#id-bdaea5eaa5484217a932002fb7b7450d"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-8379c96b48ef4255a401388db07fac6d.xml#id-8379c96b48ef4255a401388db07fac6d"/>
   </children>
 </archimate:ArchimateDiagramModel>
