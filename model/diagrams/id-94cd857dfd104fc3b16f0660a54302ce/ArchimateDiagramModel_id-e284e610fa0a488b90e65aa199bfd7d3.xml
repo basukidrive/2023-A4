@@ -1,4 +1,42 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Stakeholder Motivation"
-    id="id-e284e610fa0a488b90e65aa199bfd7d3"/>
+    id="id-e284e610fa0a488b90e65aa199bfd7d3">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3fbd25198caf439bb6f85fa1d33e3177">
+    <bounds
+        x="204"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-805eec92047d4856869be9ed42fe97fa.xml#id-805eec92047d4856869be9ed42fe97fa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8603c69760fc4085b11375c850080d0f">
+    <bounds
+        x="396"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-db94ffa790a7403ca5b91c0d21470731.xml#id-db94ffa790a7403ca5b91c0d21470731"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6c4e918487e44417aca4fdd272c29e96">
+    <bounds
+        x="600"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-00e8c75ceee9472eb16fd22a2d1f975d.xml#id-00e8c75ceee9472eb16fd22a2d1f975d"/>
+  </children>
+</archimate:ArchimateDiagramModel>
