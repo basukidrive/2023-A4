@@ -25,7 +25,7 @@
           href="AssociationRelationship_id-9e733b1ded8443ce910e198ff54cce7a.xml#id-9e733b1ded8443ce910e198ff54cce7a"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="60"
         y="120"
         width="120"
         height="55"/>
@@ -88,7 +88,7 @@
     <bounds
         x="12"
         y="252"
-        width="120"
+        width="97"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -99,9 +99,9 @@
       id="id-8b8c6c0c3d8641458bae68a441381649"
       targetConnections="id-96eec5defc98426d99a2f42c0124276c">
     <bounds
-        x="156"
+        x="120"
         y="252"
-        width="120"
+        width="97"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
