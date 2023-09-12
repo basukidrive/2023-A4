@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3fbd25198caf439bb6f85fa1d33e3177">
     <bounds
-        x="24"
+        x="84"
         y="120"
         width="120"
         height="55"/>
@@ -19,7 +19,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8603c69760fc4085b11375c850080d0f">
     <bounds
-        x="180"
+        x="240"
         y="120"
         width="120"
         height="55"/>
@@ -31,7 +31,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6c4e918487e44417aca4fdd272c29e96">
     <bounds
-        x="336"
+        x="396"
         y="120"
         width="120"
         height="55"/>
@@ -43,7 +43,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ace4e0fc559949ad845f59fa9ae8013e">
     <bounds
-        x="480"
+        x="540"
         y="120"
         width="131"
         height="55"/>
@@ -55,7 +55,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8e07187be7b5495898c9af4bd55f5187">
     <bounds
-        x="648"
+        x="708"
         y="120"
         width="133"
         height="55"/>
