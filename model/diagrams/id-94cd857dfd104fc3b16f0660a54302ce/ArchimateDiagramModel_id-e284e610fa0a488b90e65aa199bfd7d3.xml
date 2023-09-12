@@ -39,7 +39,7 @@
     <bounds
         x="240"
         y="120"
-        width="120"
+        width="97"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -49,9 +49,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6c4e918487e44417aca4fdd272c29e96">
     <bounds
-        x="396"
+        x="372"
         y="120"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
