@@ -15,4 +15,16 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-7ceaa3ecbbed4115861f293d272e1f58.xml#id-7ceaa3ecbbed4115861f293d272e1f58"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9a4d1b7e1a2e4207bf256bf2e9738391">
+    <bounds
+        x="250"
+        y="42"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-32b50806aaa84765a8aa346f8e14c946.xml#id-32b50806aaa84765a8aa346f8e14c946"/>
+  </children>
 </archimate:ArchimateDiagramModel>
