@@ -83,4 +83,52 @@
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-1ae1b4d06d4343519cd528c8cbcefeed.xml#id-1ae1b4d06d4343519cd528c8cbcefeed"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-21238354510247e8b05f9939eebc1869">
+    <bounds
+        x="36"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-2190fcc903c34552b35e4748cea8d8d7.xml#id-2190fcc903c34552b35e4748cea8d8d7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8b0387af18a74ad9bb12b235f4239c42">
+    <bounds
+        x="180"
+        y="250"
+        width="133"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-1916e3c6ec3e47008fb24484c844cf21.xml#id-1916e3c6ec3e47008fb24484c844cf21"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0ebca5865e744c72b0e346dd7b053580">
+    <bounds
+        x="336"
+        y="250"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-e0623b29c07c45fbae7b58c82b7f81db.xml#id-e0623b29c07c45fbae7b58c82b7f81db"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fd665886dd3544b195445ad377c33248">
+    <bounds
+        x="491"
+        y="250"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_id-709b55ccc9fc40a9bdfdf3a66baf996d.xml#id-709b55ccc9fc40a9bdfdf3a66baf996d"/>
+  </children>
 </archimate:ArchimateDiagramModel>
