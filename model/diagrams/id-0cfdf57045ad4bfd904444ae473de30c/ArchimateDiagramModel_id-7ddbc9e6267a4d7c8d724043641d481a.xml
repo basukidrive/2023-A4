@@ -55,8 +55,8 @@
       <bounds
           x="24"
           y="36"
-          width="181"
-          height="109"/>
+          width="205"
+          height="97"/>
       <archimateElement
           xsi:type="archimate:Product"
           href="Product_id-2a8bd8f627b64bcc9912d6e0c1567a78.xml#id-2a8bd8f627b64bcc9912d6e0c1567a78"/>
@@ -69,7 +69,7 @@
           x="264"
           y="36"
           width="181"
-          height="109"/>
+          height="97"/>
       <archimateElement
           xsi:type="archimate:Product"
           href="Product_id-482bcd3399b149db88e127d4a389744d.xml#id-482bcd3399b149db88e127d4a389744d"/>
@@ -81,8 +81,8 @@
       <bounds
           x="24"
           y="168"
-          width="181"
-          height="121"/>
+          width="205"
+          height="97"/>
       <archimateElement
           xsi:type="archimate:Product"
           href="Product_id-1fe2571a64b84dee9ed686c127a731ab.xml#id-1fe2571a64b84dee9ed686c127a731ab"/>
@@ -95,7 +95,7 @@
           x="264"
           y="168"
           width="181"
-          height="109"/>
+          height="97"/>
       <archimateElement
           xsi:type="archimate:Product"
           href="Product_id-bfd802b2a57442f699fdc6ce9bc5bc2d.xml#id-bfd802b2a57442f699fdc6ce9bc5bc2d"/>
