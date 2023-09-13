@@ -27,16 +27,16 @@
     </sourceConnections>
     <bounds
         x="46"
-        y="192"
+        y="180"
         width="759"
-        height="109"/>
+        height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0162296bf7514f9aa4a137bb00c45fce"
         targetConnections="id-5d96789b60f847fabcac351cee0800e7">
       <bounds
           x="384"
-          y="36"
+          y="24"
           width="133"
           height="55"/>
       <archimateElement
@@ -49,7 +49,7 @@
         targetConnections="id-667f03721ffd41338efd28bd3ae801da">
       <bounds
           x="576"
-          y="36"
+          y="24"
           width="145"
           height="55"/>
       <archimateElement
@@ -113,38 +113,16 @@
         x="46"
         y="34"
         width="759"
-        height="147"/>
+        height="123"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d99646fc0b4f4cbcbf9e1ac120229d0c"
         targetConnections="id-1b607febb1e940cb8187f2bec7677750">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-bfdb8aadc320439b8a7a903ffacb40ed"
-          source="id-d99646fc0b4f4cbcbf9e1ac120229d0c"
-          target="id-a0e13c3f424e49fd99eb3a595e69f76d">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-35fde25646dc4e33b130142bb3804e18.xml#id-35fde25646dc4e33b130142bb3804e18"/>
-      </sourceConnections>
       <bounds
           x="180"
           y="48"
           width="133"
-          height="85"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-a0e13c3f424e49fd99eb3a595e69f76d"
-          targetConnections="id-bfdb8aadc320439b8a7a903ffacb40ed">
-        <bounds
-            x="24"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-a3c14ac6097744598ad13a7fbd876cd5.xml#id-a3c14ac6097744598ad13a7fbd876cd5"/>
-      </children>
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-ac11bd60846d4c249088f0616f65d709.xml#id-ac11bd60846d4c249088f0616f65d709"/>
@@ -210,8 +188,8 @@
       id="id-3c15c76cbaa14a2cb60e9e04202f3fdd"
       textAlignment="1">
     <bounds
-        x="60"
-        y="336"
+        x="46"
+        y="288"
         width="759"
         height="109"/>
     <archimateElement
