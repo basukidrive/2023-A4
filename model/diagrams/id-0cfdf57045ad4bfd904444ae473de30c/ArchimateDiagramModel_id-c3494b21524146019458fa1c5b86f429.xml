@@ -149,7 +149,7 @@
           x="300"
           y="36"
           width="649"
-          height="415"/>
+          height="481"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c6c18f3f70324e1a8431c0921a90f917"
@@ -219,7 +219,7 @@
             x="108"
             y="372"
             width="120"
-            height="31"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-868a46642e454ecf97421f0553669d19.xml#id-868a46642e454ecf97421f0553669d19"/>
@@ -240,7 +240,7 @@
             x="408"
             y="372"
             width="108"
-            height="31"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-1c0cafb683c0482182bf23571f6c3ea7.xml#id-1c0cafb683c0482182bf23571f6c3ea7"/>
@@ -362,7 +362,7 @@
             x="267"
             y="372"
             width="103"
-            height="31"/>
+            height="49"/>
         <archimateElement
             xsi:type="archimate:BusinessProcess"
             href="BusinessProcess_id-942d19d083594ef0a095705c6a798dfd.xml#id-942d19d083594ef0a095705c6a798dfd"/>
