@@ -430,7 +430,7 @@
               x="12"
               y="300"
               width="301"
-              height="109"/>
+              height="121"/>
           <children
               xsi:type="archimate:DiagramModelArchimateObject"
               id="id-18d954ad01044904b655cf7a8847a172"
@@ -439,7 +439,7 @@
                 x="12"
                 y="24"
                 width="109"
-                height="73"/>
+                height="85"/>
             <archimateElement
                 xsi:type="archimate:BusinessActor"
                 href="BusinessActor_id-b0fed50722dc43ce96e18a84db1a018f.xml#id-b0fed50722dc43ce96e18a84db1a018f"/>
@@ -452,7 +452,7 @@
                 x="132"
                 y="24"
                 width="145"
-                height="73"/>
+                height="85"/>
             <archimateElement
                 xsi:type="archimate:BusinessActor"
                 href="BusinessActor_id-16ca82b4c37f452187425e0c5200ff05.xml#id-16ca82b4c37f452187425e0c5200ff05"/>
