@@ -58,8 +58,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-463fd9658c3c4a38bae180b1252e64ac.xml#id-463fd9658c3c4a38bae180b1252e64ac"/>
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-261580eaab97478b938d0d80640290cf.xml#id-261580eaab97478b938d0d80640290cf"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -80,8 +80,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-6e54bcfb8f6e4d3b91333496f8ee7b3d.xml#id-6e54bcfb8f6e4d3b91333496f8ee7b3d"/>
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-66ebc1449d55452ea6f11e283c06c231.xml#id-66ebc1449d55452ea6f11e283c06c231"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -148,8 +148,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_id-779acd136f2243cc8e8581acd8eac725.xml#id-779acd136f2243cc8e8581acd8eac725"/>
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-c8cc5cab0c994fe8aa408313f0d2bee7.xml#id-c8cc5cab0c994fe8aa408313f0d2bee7"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -179,8 +179,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:DataObject"
-            href="DataObject_id-ef300dac770d4f49a81822ad82fa9716.xml#id-ef300dac770d4f49a81822ad82fa9716"/>
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-13de5f22c0fb46bfb08282d708efaeff.xml#id-13de5f22c0fb46bfb08282d708efaeff"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -201,8 +201,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-b0d6c636fd3145eba39c622540393bba.xml#id-b0d6c636fd3145eba39c622540393bba"/>
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-9eb348280ebc4c5d80d541c0ff19d70d.xml#id-9eb348280ebc4c5d80d541c0ff19d70d"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -214,8 +214,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-54c897f796514f90b26ecb4d0ed27bac.xml#id-54c897f796514f90b26ecb4d0ed27bac"/>
+            xsi:type="archimate:BusinessProcess"
+            href="BusinessProcess_id-50d2aa47231a4807a88db1da3252b5dc.xml#id-50d2aa47231a4807a88db1da3252b5dc"/>
       </children>
       <archimateElement
           xsi:type="archimate:Grouping"

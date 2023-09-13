@@ -6,6 +6,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-61878b960a464da986bb3656ed60dc65.xml#id-61878b960a464da986bb3656ed60dc65"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_id-ef300dac770d4f49a81822ad82fa9716.xml#id-ef300dac770d4f49a81822ad82fa9716"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-13de5f22c0fb46bfb08282d708efaeff.xml#id-13de5f22c0fb46bfb08282d708efaeff"/>
 </archimate:CompositionRelationship>
