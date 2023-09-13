@@ -250,7 +250,7 @@
     <bounds
         x="612"
         y="324"
-        width="120"
+        width="132"
         height="37"/>
     <archimateElement
         xsi:type="archimate:Driver"
@@ -287,8 +287,8 @@
     <bounds
         x="300"
         y="440"
-        width="120"
-        height="55"/>
+        width="133"
+        height="65"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-bbb087c125c84fcf88c1ab1f64fad88e.xml#id-bbb087c125c84fcf88c1ab1f64fad88e"/>
@@ -299,8 +299,8 @@
     <bounds
         x="456"
         y="440"
-        width="120"
-        height="55"/>
+        width="133"
+        height="113"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-87b6d71938f94d5699e00627d2e8a633.xml#id-87b6d71938f94d5699e00627d2e8a633"/>
