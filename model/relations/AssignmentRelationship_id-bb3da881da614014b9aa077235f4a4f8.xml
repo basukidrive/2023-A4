@@ -1,12 +1,11 @@
-<archimate:AccessRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Simpan Data"
-    id="id-932ba3c74d9947109eaa1f766a45ea81">
+    id="id-bb3da881da614014b9aa077235f4a4f8">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-31fbe83b9c5240b7ba825d60204dcdf8.xml#id-31fbe83b9c5240b7ba825d60204dcdf8"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_id-2454009af1db4661acbab26e2120b615.xml#id-2454009af1db4661acbab26e2120b615"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-b4189bb270294c3081d98ada6fb8198a.xml#id-b4189bb270294c3081d98ada6fb8198a"/>
+</archimate:AssignmentRelationship>
