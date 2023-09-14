@@ -35,7 +35,7 @@
         id="id-d86c0799b2e7434f92bfc727eee2f70d"
         targetConnections="id-558aa84970d8474ea6ea0877e320fa9e">
       <bounds
-          x="48"
+          x="108"
           y="48"
           width="120"
           height="55"/>
@@ -48,7 +48,7 @@
         id="id-cfab000825cc4b7687d271b66ce4785c"
         targetConnections="id-47ca7bfdd36c437c91662af3666cc423">
       <bounds
-          x="180"
+          x="312"
           y="48"
           width="120"
           height="55"/>
