@@ -375,8 +375,9 @@
             id="id-a9cc4e8c97d94b1793b18af6df3a85d8"
             targetConnections="id-9c55216df67c41179a1a648670138481 id-ef396696bf724d988db64525d3e21cc3">
           <bounds
+              x="12"
               y="216"
-              width="109"
+              width="97"
               height="37"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
