@@ -496,8 +496,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-1f9f32f766644b75af8eb49c381d73ca.xml#id-1f9f32f766644b75af8eb49c381d73ca"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-8031cdfa66e64b01995b10efd3b03a90.xml#id-8031cdfa66e64b01995b10efd3b03a90"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -518,8 +518,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-d723215acd7c4b188e16aedaec734245.xml#id-d723215acd7c4b188e16aedaec734245"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-8085d5cc532f4c02b61e47f25d0a2113.xml#id-8085d5cc532f4c02b61e47f25d0a2113"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -540,8 +540,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-763bbb4bb27e4acca014da79c38c42f1.xml#id-763bbb4bb27e4acca014da79c38c42f1"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-4901ffaaa21b4de9bee49a1c1632ebc6.xml#id-4901ffaaa21b4de9bee49a1c1632ebc6"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -562,8 +562,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-0af8498a2e5a429880ae9016032d1d5f.xml#id-0af8498a2e5a429880ae9016032d1d5f"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-aa5b0a22b8f846b0b7823624884f714f.xml#id-aa5b0a22b8f846b0b7823624884f714f"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -575,8 +575,8 @@
             width="120"
             height="55"/>
         <archimateElement
-            xsi:type="archimate:BusinessProcess"
-            href="BusinessProcess_id-a9d59f3886094b099883ea7f0fcbb53e.xml#id-a9d59f3886094b099883ea7f0fcbb53e"/>
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_id-138cdc94e6774439a83e39183a12382f.xml#id-138cdc94e6774439a83e39183a12382f"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
