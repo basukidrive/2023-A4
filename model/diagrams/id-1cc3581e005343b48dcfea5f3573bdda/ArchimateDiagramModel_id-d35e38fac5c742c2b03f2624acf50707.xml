@@ -1,4 +1,19 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dashboard Portfolio"
-    id="id-d35e38fac5c742c2b03f2624acf50707"/>
+    id="id-d35e38fac5c742c2b03f2624acf50707">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7414aedbf7e4496f947bd109fd3f512e"
+      textAlignment="1">
+    <bounds
+        x="145"
+        y="162"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-80d5cf594b364ca39cb6193d3909139b.xml#id-80d5cf594b364ca39cb6193d3909139b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
