@@ -132,7 +132,7 @@
         id="id-4b61adb0c65a4f96a68c92c2b42a264b"
         targetConnections="id-0558a11eeae9426393972a4994adfdec">
       <bounds
-          x="876"
+          x="648"
           y="48"
           width="133"
           height="85"/>
@@ -158,10 +158,10 @@
         id="id-7cd6b64d379a49c1b2fa7f1262c8e19a"
         targetConnections="id-a5c7bd78ec05439cb24be028e8c55baf">
       <bounds
-          x="1128"
-          y="60"
+          x="816"
+          y="48"
           width="133"
-          height="55"/>
+          height="85"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-fcf7ce3bc1104758ac5ed3f866fffc86.xml#id-fcf7ce3bc1104758ac5ed3f866fffc86"/>
